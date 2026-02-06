@@ -15,7 +15,6 @@ I've worked on a couple of projects using React.js, Next.js, python and python t
 | Smart Surveillance System for Public Mental Wellbeing   | Smart Cities  | Python, Tensorflow, PyTorch, Next.js    |  This application makes use of lightweight, accurate and privacy preserving models to analyze various features detected in a surveillance footage, and provide a dashboard that updates in real time and not only reports anomalies, but also keeps track of both positive and negative states of the area, and provides an explained, in-depth analysis of the data collected.   | ----  | On Hold   | [![Github](https://img.shields.io/badge/github-SSS-blue?logo=github)](https://github.com/keerthanar09/smart-surveillance-ndf)   |
 | Legal Assistant Application | Law   | GCP, Next.js, Python  | Legal assistant for people with little to no legal education. Intended to help everyone discern legal jargon in legal documents, making them more accessible and avoid errors and unfavorable terms.   | ----  | On Hold   | [![Github](https://img.shields.io/badge/github-LAA-blue?logo=github)](https://github.com/keerthanar09/legal-assistant)   |
 | Portfolio Website <3 | Personal Project  | Next.js   | My portfolio website!    | ----  | Completed, Maintained   | [![Github](https://img.shields.io/badge/github-portfolio-blue?logo=github)](https://github.com/keerthanar09/my-portfolio)   |
-| Secret Diary Application | Personal Project  | Next.js, Django   | God knows where this project is going since it was created to familiarize myself with managing CRUD operations via frontend, so I might add more Database related operations and expand the application to handle collaborative diaries :D   | ----  | In Progress   | [![Github](https://img.shields.io/badge/github-Diary-blue?logo=github)](https://github.com/keerthanar09/SecretDiary)   |
 
 
 ## Visit my Professional Profiles 
@@ -25,3 +24,9 @@ I've worked on a couple of projects using React.js, Next.js, python and python t
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-8A2BE2)](https://www.linkedin.com/in/keerthanarxd)  [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://keerthanarportfolio.dev)
 
+## Contact Information
+
+Email 1: keerthana240904@gmail.com <br>
+Email 2: keerthanarxd24@gmail.com <br>
+Phone Number: +91 8123700951 <br>
+LinkedIn: https://www.linkedin.com/in/keerthanarxd/ <br>
