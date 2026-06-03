@@ -2,7 +2,7 @@
 
 <!-- ![An Image of me](my_image.png) -->
 
-Hello! I'm **Keerthana** and I love the art and science of programming, the lovely combination of gulab jamun and vanilla ice cream and video games, among other things <3
+Hello! I'm **Keerthana** and I love the art and science of programming, the lovely combination of gulab jamun and vanilla ice cream and classical music, among other things <3
 
 I've worked on a couple of projects using React.js, Next.js, python and python tools and frameworks such as Django, Flask, PyTorch, OpenCV and more.
 
