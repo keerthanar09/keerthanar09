@@ -30,7 +30,8 @@ I've worked on a couple of projects using React.js, Next.js, python and python t
 [![Leetcode](https://img.shields.io/badge/leetcode-profile-blue?logo=leetcode)](https://leetcode.com/u/keerthanaxd/) 
 <br> [![Github](https://img.shields.io/badge/github-profile-blue?logo=github)](https://github.com/keerthanar09)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-8A2BE2)](https://www.linkedin.com/in/keerthanarxd)  [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://keerthanarportfolio.dev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-8A2BE2)](https://www.linkedin.com/in/keerthanarxd)  [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://my-portfolio-zeta-two-52.vercel.app)
+
 
 ## Contact Information
 
